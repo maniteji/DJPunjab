@@ -2,12 +2,12 @@
 <img
   src="app/Screenshots/Screenshot_20231210-125201.png "
   alt="Screenshot 1"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 <img
   src="app/Screenshots/Screenshot_20231210-125220.png "
   alt="Screenshot 2"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 100px">
 
 # Music App
 
