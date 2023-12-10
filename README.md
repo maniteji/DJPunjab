@@ -2,11 +2,11 @@
 <img
   src="app/Screenshots/Screenshot_20231210-125201.png "
   alt="Screenshot 1"
-  style="display: inline-block; margin: 0 auto; height:300px; width: 200px">
+  style="display: inline-block; margin: 0 auto; height:450px; width: 200px">
 <img
   src="app/Screenshots/Screenshot_20231210-125220.png "
   alt="Screenshot 2"
-  style="display: inline-block; margin: 0 auto; height:300px; width: 200px">
+  style="display: inline-block; margin: 0 auto; height:450px; width: 200px">
 
 # Music App
 
