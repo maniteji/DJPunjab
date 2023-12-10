@@ -7,7 +7,7 @@
 <img
   src="app/Screenshots/Screenshot_20231210-125220.png "
   alt="Screenshot 2"
-  style="display: inline-block; margin: 0 auto; max-width: 100px">
+  style="display: inline-block; margin: 0 auto; ; height:200px ;width: 100px">
 
 # Music App
 
