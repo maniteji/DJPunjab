@@ -1,5 +1,6 @@
 # Screenshot
-![Screenshot 1](app/Screenshots/Screenshot_20231210-125201.png "Screenshot 1")  ![Screenshot 2](app/Screenshots/Screenshot_20231210-125220.png "Screenshot 2")
+![Screenshot 1](app/Screenshots/Screenshot_20231210-125201.png "Screenshot 1")  
+![Screenshot 2](app/Screenshots/Screenshot_20231210-125220.png "Screenshot 2")
 
 # Music App
 
